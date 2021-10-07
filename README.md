@@ -1,2 +1,2 @@
 # Testrepo
-It is marcdawn file in this repository
+It is markdawn file in this repository
